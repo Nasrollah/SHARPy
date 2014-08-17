@@ -50,4 +50,4 @@ solver scripts.
 License
 -------
 
-SHARPy is distributed as open source software under a BSD license. Please the license.dat file for details.
+SHARPy is distributed as open source software under a BSD license. Please check the license.dat file for details.
