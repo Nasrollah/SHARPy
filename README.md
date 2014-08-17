@@ -45,3 +45,9 @@ Run
 The first thing you should do is run some python unittests
 which can be found in the test/ directory of PyAero, PyBeam and PyCoupled
 solver scripts.
+
+
+License
+-------
+
+SHARPy is distributed as open source software under a BSD license. Please the license.dat file for details.
