@@ -51,3 +51,9 @@ License
 -------
 
 SHARPy is distributed as open source software under a BSD license. Please check the license.dat file for details.
+
+
+Acknowledgments
+---------------
+
+The development of SHARPy at Imperial College London has been supported by the Engineering and Physical Sciences Research Council [grant number EP/I014683/1].
